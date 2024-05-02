@@ -6,6 +6,6 @@ I started this exploration by trying to build classification algorithms from scr
 The first algorithm was LogisticRegression followed by the DecisionTreeClassifier. 
 
 - The LogisticRegression:
-
+/home/ebuka/Pictures/Screenshots/Screenshot from 2024-05-02 19-50-21.png
 
 I do intend to update this repo with more Machine Learning Algorithms built from the scratch.
